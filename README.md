@@ -37,13 +37,17 @@ What variable(s) are the features for your model? The features for the model are
 What variable(s) should be removed from the input data because they are neither targets nor features? The EIN and NAME variables were removed because they were not targets or features.
 
 
+
+
 Compiling, Training, and Evaluating the Model
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
+How many neurons, layers, and activation functions did you select for your neural network model, and why? I used 3 layers, & 3 activation functions.
 
-Were you able to achieve the target model performance? I was not able to achieve the target performance.
+Were you able to achieve the target model performance? I was not able to achieve the 75% target performance.
 
-What steps did you take in your attempts to increase model performance?  I dropped the NAME column, & reduced the number of epochs to 75.
+What steps did you take in your attempts to increase model performance?  I dropped the EIN column, & reduced the number of epochs to 75.
 
 
 # Summary
+
+The results I achieved from the deep learning model was 73%, which was 2 percent from the 75% target. A possible solution would be to clean up the data, dropping more columns, adding more layers, and/or creating more bins.
