@@ -28,7 +28,7 @@ IS_SUCCESSFUL—Was the money used effectively
 
 # Results 
 
-Data Preprocessing
+* Data Preprocessing
 
 What variable(s) are the target(s) for your model? The target variable was IS_SUCCESSFUL column to find successful candidates to be funded.
 
@@ -39,7 +39,7 @@ What variable(s) should be removed from the input data because they are neither 
 
 
 
-Compiling, Training, and Evaluating the Model
+* Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why? I used 3 layers, & 3 activation functions.
 
@@ -50,4 +50,4 @@ What steps did you take in your attempts to increase model performance?  I dropp
 
 # Summary
 
-The results I achieved from the deep learning model was 73%, which was 2 percent less than the 75% target. A possible solution would be to clean up the data, dropping more columns, adding more layers, and/or creating more bins.
+The results I achieved from the deep learning model was 72%, which was 3 percent less than the 75% target. A possible solution would be to clean up the data, dropping more columns, adding more layers, and/or creating more bins.
