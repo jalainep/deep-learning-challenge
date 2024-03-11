@@ -50,4 +50,4 @@ What steps did you take in your attempts to increase model performance?  I dropp
 
 # Summary
 
-The results I achieved from the deep learning model was 73%, which was 2 percent from the 75% target. A possible solution would be to clean up the data, dropping more columns, adding more layers, and/or creating more bins.
+The results I achieved from the deep learning model was 73%, which was 2 percent less than the 75% target. A possible solution would be to clean up the data, dropping more columns, adding more layers, and/or creating more bins.
